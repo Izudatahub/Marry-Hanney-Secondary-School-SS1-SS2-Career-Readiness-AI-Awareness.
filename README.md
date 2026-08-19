@@ -45,6 +45,8 @@ The objectives of this project was to use student data to:
 
 6.Generate actionable insights to support career guidance and student development.
 
+
+
 ## Key Questions / KPIs
 
 The dashboard answers the following key questions:
@@ -87,7 +89,7 @@ Questionnaire Design → Data Collection → Data Recording → Data Cleaning �
 
 ## Dashboard
 
-
+![AI Awareness Dashboard](images/ai-awareness-dashboard.png)
 
 ## Conclusion
 
