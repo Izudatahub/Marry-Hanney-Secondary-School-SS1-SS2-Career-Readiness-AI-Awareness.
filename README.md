@@ -1,4 +1,4 @@
-# Marry-Hanney-Secondary-School-SS1-SS2-Career-Readiness-&-AI-Awareness.
+# Mary-Hanney-Secondary-School-SS1-SS2-Career-Readiness-&-AI-Awareness.
 
 ## Table of Contents
 
