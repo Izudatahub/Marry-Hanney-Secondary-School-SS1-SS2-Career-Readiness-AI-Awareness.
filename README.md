@@ -16,8 +16,6 @@
 
 [Key Project Insights](#key-project-insights)
 
-[Key Takeaway](#key-takeaway)
-
 [Dashboard](#dashboard)
 
 [Conclusion](#conclusion)
@@ -87,19 +85,19 @@ Questionnaire Design → Data Collection → Data Recording → Data Cleaning �
 
 - However, only 4% demonstrated strong AI familiarity, revealing a significant gap between AI awareness and AI literacy.
 
-## Key Takeaway
-
-The data shows that students generally have strong career ambitions and confidence, but financial constraints, limited learning resources, and lack of guidance may affect their ability to achieve these goals.
-
-The significant gap between 90% AI awareness and only 4% strong AI familiarity also highlights the need for more practical AI literacy and digital-skills education among students.
-
 ## Dashboard
+
+
 
 ## Conclusion
 
-This project demonstrates how raw questionnaire data can be transformed into meaningful KPIs, visualizations, and actionable insights.
+- The data shows that students generally have strong career ambitions and confidence, but financial constraints, limited learning resources, and lack of guidance may affect their ability to achieve these goals.
 
-The dashboard provides a clear picture of students' career readiness, academic challenges, career aspirations, and AI awareness, helping educators and other stakeholders identify areas where additional support, guidance, financial opportunities, and digital education may be needed.
+- The significant gap between 90% AI awareness and only 4% strong AI familiarity also highlights the need for more practical AI literacy and digital-skills education among students.
+
+- This project demonstrates how raw questionnaire data can be transformed into meaningful KPIs, visualizations, and actionable insights.
+
+- The dashboard provides a clear picture of students' career readiness, academic challenges, career aspirations, and AI awareness, helping educators and other stakeholders identify areas where additional support, guidance, financial opportunities, and digital education may be needed.
 
 ## Skills Demonstrated
 
