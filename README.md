@@ -1,14 +1,41 @@
 # Marry-Hanney-Secondary-School-SS1-SS2-Career-Readiness-AI-Awareness.
 
+## Table of Contents
+
+[Project Overview](#project_overview)
+
+[Project Objective](#project-objectives)
+
+[Dataset Used](#dataset-used)
+
+[Key Questions / KPIs](#key-Questions-/-KPIs)
+
+[Key KPIs](#key-KPIs)
+
+[Project Process](#project-process)
+
+[Process Summary](#process-summary)
+
+[Key Project Insights](#key-project-insights)
+
+[Key Takeaway](#key-takeaway)
+
+[Dashboard](#dashboard)
+
+[Conclusion](#conclusion)
+
+[Skills Demonstrated](#skills-demonstrated)
+
+
 ## Project Overview
 
 A data analytics project designed to assess career readiness, academic challenges, career aspirations, confidence levels, and AI awareness among SS1 and SS2 students.
 
 The analysis was based on 298 student responses collected through a structured questionnaire and transformed into an interactive dashboard for easy interpretation and decision-making.
 
-## Project Objective
+## Project Objectives
 
-The objective of this project was to use student data to:
+The objectives of this project was to use student data to:
 
 1.Measure career readiness and confidence.
 
@@ -93,6 +120,10 @@ Questionnaire Design → Data Collection → Data Recording → Data Cleaning �
 The data shows that students generally have strong career ambitions and confidence, but financial constraints, limited learning resources, and lack of guidance may affect their ability to achieve these goals.
 
 The significant gap between 90% AI awareness and only 4% strong AI familiarity also highlights the need for more practical AI literacy and digital-skills education among students.
+
+## Dashboard
+
+
 
 ## Conclusion
 
