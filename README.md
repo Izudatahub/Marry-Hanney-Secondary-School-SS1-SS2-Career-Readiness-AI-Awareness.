@@ -71,3 +71,40 @@ Questionnaire Design → Data Collection → Data Recording → Data Cleaning �
 - Designed the dashboard to communicate the findings clearly.
 
 - Extracted key insights and recommendations from the results.
+
+## Key Project Insights
+
+- 91% of students reported having a career goal, indicating a high level of career orientation.
+
+- 74% reported being very confident about achieving their career goals.
+
+- Lack of textbooks and learning materials was the most reported academic challenge.
+
+- Medicine/Nursing emerged as the most preferred career pathway.
+
+- Lack of money for university was the biggest reported obstacle to career success, with 191 responses.
+
+- 90% of students were aware of Artificial Intelligence.
+
+- However, only 4% demonstrated strong AI familiarity, revealing a significant gap between AI awareness and AI literacy.
+
+## Key Takeaway
+
+The data shows that students generally have strong career ambitions and confidence, but financial constraints, limited learning resources, and lack of guidance may affect their ability to achieve these goals.
+
+The significant gap between 90% AI awareness and only 4% strong AI familiarity also highlights the need for more practical AI literacy and digital-skills education among students.
+
+## Conclusion
+
+This project demonstrates how raw questionnaire data can be transformed into meaningful KPIs, visualizations, and actionable insights.
+
+The dashboard provides a clear picture of students' career readiness, academic challenges, career aspirations, and AI awareness, helping educators and other stakeholders identify areas where additional support, guidance, financial opportunities, and digital education may be needed.
+
+## Skills Demonstrated
+
+Data Collection | Data Cleaning | Data Analysis | KPI Development | Data Visualization | Dashboard Design | Insight Generation | Data Storytelling
+
+
+
+
+
