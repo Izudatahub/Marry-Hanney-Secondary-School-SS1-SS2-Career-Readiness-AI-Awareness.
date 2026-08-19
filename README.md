@@ -4,7 +4,7 @@
 
 [Project Overview](#project_overview)
 
-[Project Objective](#project-objectives)
+[Project Objectives](#project-objectives)
 
 [Dataset Used](#dataset-used)
 
