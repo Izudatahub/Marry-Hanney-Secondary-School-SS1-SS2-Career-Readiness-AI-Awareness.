@@ -45,7 +45,11 @@ The objectives of this project was to use student data to:
 
 6.Generate actionable insights to support career guidance and student development.
 
+## Dataset used
 
+The dataset used for this analysis is available below:
+
+[📥 Download Dataset](data/AI_Awareness_Dataset.xlsx)
 
 ## Key Questions / KPIs
 
