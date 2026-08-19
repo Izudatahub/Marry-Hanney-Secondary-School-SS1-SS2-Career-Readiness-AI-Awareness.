@@ -45,11 +45,18 @@ The objectives of this project was to use student data to:
 
 6.Generate actionable insights to support career guidance and student development.
 
-## Dataset used
+## Dataset Used
 
-The dataset used for this analysis is available below:
+The dataset contains 298 responses from SS1 and SS2 students collected through a structured questionnaire covering:
 
-[📥 Download Dataset](data/AI_Awareness_Dataset.xlsx)
+- Career readiness
+- Career aspirations
+- Academic challenges
+- Career confidence
+- Barriers to career goals
+- AI awareness and familiarity
+
+[View Dataset](data/student_career_ai_awareness.csv)
 
 ## Key Questions / KPIs
 
@@ -93,7 +100,7 @@ Questionnaire Design → Data Collection → Data Recording → Data Cleaning �
 
 ## Dashboard
 
-![AI Awareness Dashboard](images/ai-awareness-dashboard.png)
+![Career Readiness & AI Awareness Dashboard](images/dashboard.png)
 
 ## Conclusion
 
