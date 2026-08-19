@@ -14,8 +14,6 @@
 
 [Project Process](#project-process)
 
-[Process Summary](#process-summary)
-
 [Key Project Insights](#key-project-insights)
 
 [Key Takeaway](#key-takeaway)
@@ -67,37 +65,11 @@ The dashboard answers the following key questions:
 
 ## Key KPIs
 
-- Total Respondents: 298
-
-- Students with Career Goals: 91%
-
-- Very Confident About Career Goals: 74%
-
-- AI Awareness: 90%
-
-- Strong AI Familiarity: 4%
+298 | 91% | 74% | 90% | 4%
 
 ## Project Process
 
 Questionnaire Design → Data Collection → Data Recording → Data Cleaning → Data Analysis → KPI Development → Dashboard Design → Insights
-
-## Process Summary
-
-- Designed a structured questionnaire covering academics, career readiness, and AI awareness.
-
-- Distributed the questionnaire to SS1 and SS2 students.
-
-- Collected and manually recorded 298 responses.
-
-- Cleaned and organized the dataset by checking inconsistencies, missing values, and response categories.
-
-- Analyzed the data to identify trends and patterns.
-
-- Developed KPIs and visualizations based on the analysis.
-
-- Designed the dashboard to communicate the findings clearly.
-
-- Extracted key insights and recommendations from the results.
 
 ## Key Project Insights
 
@@ -122,8 +94,6 @@ The data shows that students generally have strong career ambitions and confiden
 The significant gap between 90% AI awareness and only 4% strong AI familiarity also highlights the need for more practical AI literacy and digital-skills education among students.
 
 ## Dashboard
-
-
 
 ## Conclusion
 
